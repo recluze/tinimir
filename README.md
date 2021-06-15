@@ -2,7 +2,7 @@
 
 Author: recluze 
 
-This little script uses Spleeter and ffmpeg to remove music from any video. 
+This little script uses [Spleeter](https://github.com/deezer/spleeter) and ffmpeg to remove music from any video. 
 
 I use this script to download documentaries off of youtube (using youtube-dl), remove any music leaving voice narration in and put them in a local media server to be streamed during my kids' "video time". 
 
